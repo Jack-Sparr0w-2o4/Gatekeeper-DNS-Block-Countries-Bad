@@ -189,3 +189,6 @@ c.nic.ml
 d.nic.ml
 ns1.kptc.kp
 ns2.kptc.kp
+gransy-anycast1.nic.cd
+gransy-anycast2.nic.cd
+pch.nic.cd
