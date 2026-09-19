@@ -1,512 +1,512 @@
-a.dns.cn
-b.dns.cn
-c.dns.cn
-d.dns.cn
-e.dns.cn
-ns.cernet.net
-a.dns.ripn.net
-b.dns.ripn.net
-c.tld-servers.ru
-d.dns.ripn.net
-e.dns.ripn.net
-f.dns.ripn.net
-ns1.registry.in
-ns2.registry.in
-ns3.registry.in
-ns4.registry.in
-a.dns.br
-b.dns.br
-c.dns.br
-d.dns.br
-e.dns.br
-f.dns.br
-a.registrydns.co
-b.registrydns.co
-c.registrydns.co
-d.registrydns.co
-a.ns.gov
-b.ns.gov
-c.ns.gov
-d.ns.gov
-a.edu-servers.net
-b.edu-servers.net
-c.edu-servers.net
-d.edu-servers.net
-e.edu-servers.net
-f.edu-servers.net
-g.edu-servers.net
-h.edu-servers.net
-i.edu-servers.net
-j.edu-servers.net
-k.edu-servers.net
-l.edu-servers.net
-m.edu-servers.net
-anyc2.irondns.net
-etld-1.anycast.net
-na-e.ns.nic.cz
-na-ns.anycast.pch.net
-na.anycastdns.cz
-a0.nic.me
-a2.nic.me
-b0.nic.me
-b2.nic.me
-c0.nic.me
-a.lactld.org
-ms-ns.anycast.pch.net
-ns1.anycastdns.cz
-ns2.anycastdns.cz
-a.dns.it
-dns.nic.it
-m.dns.it
-nameserver.cnr.it
-r.dns.it
-v.dns.it
-a-dns.pl
-b-dns.pl
-d-dns.pl
-f-dns.pl
-h-dns.pl
-j-dns.pl
-ac1.nstld.com
-ac2.nstld.com
-ac3.nstld.com
-ac4.nstld.com
-a.au
-q.au
-r.au
-s.au
-t.au
-d.nic.fr
-f.ext.nic.fr
-g.ext.nic.fr
-c.mx-ns.mx
-e.mx-ns.mx
-i.mx-ns.mx
-m.mx-ns.mx
-o.mx-ns.mx
-x.mx-ns.mx
-a.dns.jp
-b.dns.jp
-c.dns.jp
-d.dns.jp
-e.dns.jp
-f.dns.jp
-g.dns.jp
-h.dns.jp
-b.dns.kr
-c.dns.kr
-d.dns.kr
-e.dns.kr
-f.dns.kr
-g.dns.kr
-a0.asia.afilias-nst.info
-a2.asia.afilias-nst.info
-b0.asia.afilias-nst.asia
-b2.asia.afilias-nst.org
-c0.asia.afilias-nst.info
-d0.asia.afilias-nst.asia
-fork.sth.dnsnode.net
-ns-cdn.amnic.net
-ns-pch.amnic.net
-ns-pri.nic.am
-a.cctld-servers.net.jo
-b.cctld-servers.net.jo
-c.cctld-servers.net.jo
-d.cctld-servers.net.jo
-jo.cctld.authdns.ripe.net
-rip.psg.com
-ns2.nic.net.ng
-ns3.nic.net.ng
-ns4.nic.net.ng
-ns5.nic.net.ng
-nsa.nic.net.ng
-ns43.ns.tr
-ns44.ns.tr
-ns61.ns.tr
-ns71.ns.tr
-ns72.ns.tr
-ns73.ns.tr
-ns74.ns.tr
-ns75.ns.tr
-anycast.ns.nic.bo
-ns.dns.br
-ns.nic.bo
-ns2.nic.fr
-dns-at.rotld.ro
-dns-c.rotld.ro
-dns-ro.denic.de
-primary.rotld.ro
-sec-dns-a.rotld.ro
-sec-dns-b.rotld.ro
-a.lactld.org
-a.nic.uy
-b.nic.uy
-d.nic.uy
-ns.dns.br
-ns1.anteldata.com.uy
-ns2.anteldata.com.uy
-ns01.trs-dns.com
-ns01.trs-dns.net
-ns10.trs-dns.info
-ns10.trs-dns.org
-a.nic.ir
-b.nic.ir
-c.nic.ir
-d.nic.ir
-ns1.liquidtelecom.net
-ns1zim.telone.co.zw
-ns2.liquidtelecom.net
-ns2zim.telone.co.zw
-zw-ns.anycast.pch.net
-a.lactld.org
-gy-ns.anycast.pch.net
-ns1.nic.ge
-ns2.nic.ge
-ns3.nic.ge
-ns4.nic.ge
-jm.cctld.authdns.ripe.net
-ns.jm
-ns3-jm.fsl.org.jm
-phloem.uoregon.edu
-d.nic.fr
-f.ext.nic.fr
-g.ext.nic.fr
-a.ns.tk
-b.ns.tk
-c.ns.tk
-d.ns.tk
-a.ns.cf
-b.ns.cf
-c.ns.cf
-d.ns.cf
-a.ns.gq
-b.ns.gq
-c.ns.gq
-d.ns.gq
-a.nic.ml
-b.nic.ml
-c.nic.ml
-d.nic.ml
-ns1.kptc.kp
-ns2.kptc.kp
-gransy-anycast1.nic.cd
-gransy-anycast2.nic.cd
-pch.nic.cd
-a.ns.tk
-b.ns.tk
-c.ns.tk
-d.ns.tk
-a.fi
-b.fi
-c.fi
-d.fi
-e.fi
-f.fi
-g.fi
-i.fi
-j.fi
-k.fi
-ns1.dns.nl
-ns3.dns.nl
-ns4.dns.nl
-b.dns.kr
-c.dns.kr
-d.dns.kr
-e.dns.kr
-f.dns.kr
-g.dns.kr
-a.tld.lt
-b.tld.lt
-d.tld.lt
-e.tld.lt
-f.tld.lt
-r.tld.lt
-anycast10.irondns.net
-anycast23.irondns.net
-anycast24.irondns.net
-anycast9.irondns.net
-ns1.registry.in
-ns2.registry.in
-ns3.registry.in
-ns4.registry.in
-ns.dns.br
-ns1.nic.gh
-ns2.nic.gh
-a.ns.nu
-c.ns.nu
-d.ns.nu
-m.ns.nu
-y.ns.nu
-z.ns.nu
-anyns.uem.mz
-dzowo.uem.mz
-ns-mz.afrinic.net
-oceano.uem.mz
-phloem.uoregon.edu
-zebra.uem.mz
-b.ns.lb
-i.ns.lb
-m.ns.lb
-n.ns.lb
-nabil.ns.lb
-r.ns.lb
-s.ns.lb
-t.ns.lb
-w.ns.lb
-a.lactld.org
-ns3.nic.ve
-ns4.nic.ve
-ns5.nic.ve
-ns6.nic.ve
-ssdns-tld.nic.cl
-estia.ics.forth.gr
-gr-a.ics.forth.gr
-gr-at.ics.forth.gr
-gr-d.ics.forth.gr
-gr-m.ics.forth.gr
-grdns.ics.forth.gr
-bd-ns.anycast.pch.net
-dns.bd
-jamuna.btcl.net.bd
-surma.btcl.net.bd
-ns01.trs-dns.com
-ns01.trs-dns.net
-ns10.trs-dns.info
-ns10.trs-dns.org
-a.lactld.org
-ix.red.sv
-ns.dns.br
-nsca.nic.cr
-p.ns.sv
-sir.red.sv
-a.nic.bg
-b.nic.bg
-c.nic.bg
-d.nic.bg
-e.nic.bg
-p.nic.bg
-a.hu
-b.hu
-c.hu
-d.hu
-e.hu
-f.hu
-p.hu
-root-c1.pknic.pk
-root-c2.pknic.pk
-root-e.pknic.pk
-root-s.pknic.pk
-e.tld.sk
-f.tld.sk
-g.tld.sk
-h.tld.sk
-a.dns.it
-dns.nic.it
-m.dns.it
-nameserver.cnr.it
-r.dns.it
-v.dns.it
-a.ns.nic.cz
-b.ns.nic.cz
-c.ns.nic.cz
-d.ns.nic.cz
-ns1.nic.ge
-ns2.nic.ge
-ns3.nic.ge
-ns4.nic.ge
-a.lactld.org
-ns.nic.do
-ns1.nic.do
-ns2.nic.do
-ns4.nic.do
-ns5.nic.do
-phloem.uoregon.edu
-a.mynic.centralnic-dns.com
-b.mynic.centralnic-dns.com
-c.mynic.centralnic-dns.com
-d.mynic.centralnic-dns.com
-e.nic.my
-g.nic.my
-ns01.trs-dns.com
-ns01.trs-dns.net
-bg.ns.ua
-cz.ns.ua
-ho1.ns.ua
-in1.ns.ua
-nn.ns.ua
-pch.ns.ua
-rcz.ns.ua
-fork.sth.dnsnode.net
-ns.anycast.co.tz
-ns2.tznic.or.tz
-rip.psg.com
-tz-e.ns.nic.cz
-dns1.tld.becloudby.com
-dns2.tld.becloudby.tech
-dns3.tld.becloudby.tech
-dns4.tld.becloudby.tech
-dns7.tld.becloudby.com
-a-dns.pl
-b-dns.pl
-d-dns.pl
-f-dns.pl
-h-dns.pl
-j-dns.pl
-hr-ns-1.carnet.hr
-n.dns.hr
-pch.carnet.hr
-a.nic.rs
-b.nic.rs
-c.nic.rs
-f.nic.rs
-h.nic.rs
-l.nic.rs
-anycast.ns.nic.bo
-ns.dns.br
-ns.nic.bo
-ns2.nic.fr
-a.ns.ao
-ao-e.ns.nic.cz
-ao02.dns.pt
-etld-1.anycast.net
-a.lactld.org
-ns.nic.do
-ns1.nic.do
-ns2.nic.do
-ns4.nic.do
-ns5.nic.do
-phloem.uoregon.edu
-b.tld.ee
-e.tld.ee
-ee.cert.ee
-ee.eenet.ee
-ns.tld.ee
-b.dns.id
-c.dns.id
-d.dns.id
-e.dns.id
-f.dns.id
-ns4.apnic.net
-ns.nic.kz
-ns1.nic.kz
-ns2.nic.kz
-anyns.uem.mz
-dzowo.uem.mz
-ns-mz.afrinic.net
-oceano.uem.mz
-phloem.uoregon.edu
-zebra.uem.mz
-dns-at.rotld.ro
-dns-c.rotld.ro
-dns-ro.denic.de
-primary.rotld.ro
-sec-dns-a.rotld.ro
-sec-dns-b.rotld.ro
-b.dns.si
-f.dns.si
-h.dns.si
-i.dns.si
-k.dns.si
-l.dns.si
-munnari.oz.au
-ns1.nic.al
-ns2.nic.al
-nsx.nic.al
-rip.psg.com
-jm.cctld.authdns.ripe.net
-ns.jm
-ns3-jm.fsl.org.jm
-phloem.uoregon.edu
-ns2.nic.net.ng
-ns3.nic.net.ng
-ns4.nic.net.ng
-ns5.nic.net.ng
-nsa.nic.net.ng
-kenic.anycastdns.cz
-mzizi.kenic.or.ke
-ns-ke.afrinic.net
-ns.anycast.kenic.or.ke
-a.tld.ma
-b.tld.ma
-c.tld.ma
-d.tld.ma
-dns.inria.fr
-e.tld.ma
-f.tld.ma
-ns-ma.nic.fr
-a.nic.fm
-b.nic.fm
-c.nic.fm
-d.nic.fm
-e.nic.fm
-f.nic.fm
-a.nic.lv
-b.nic.lv
-c.nic.lv
-d.nic.lv
-n.nic.lv
-nu.nic.lv
-sunic.sunet.se
-d.nic.fr
-f.ext.nic.fr
-g.ext.nic.fr
-a.registry.qa
-b.registry.qa
-c.registry.qa
-d.registry.qa
-e.registry.qa
-f.registry.qa
-g.registry.qa
-h.registry.qa
-i.registry.qa
-a.ns.ie
-c.ns.ie
-d.ns.ie
-e.ns.ie
-h.ns.ie
-i.ns.ie
-b.nic.dk
-c.nic.dk
-h.nic.dk
-l.nic.dk
-s.nic.dk
-t.nic.dk
-a.ns.se
-b.ns.se
-c.ns.se
-f.ns.se
-g.ns.se
-i.ns.se
-m.ns.se
-x.ns.se
-y.ns.se
-z.ns.se
-ns1.nic.la
-ns2.nic.la
-ns3.nic.la
-ns4.nic.la
-d.nic.lk
-h.nic.lk
-m.nic.lk
-ns1.ac.lk
-p.nic.lk
-pendragon.cs.purdue.edu
-t.nic.lk
-z.nic.lk
-1.ns.ph
-ns2.cuhk.edu.hk
-ns4.apnic.net
-ph.communitydns.net
-ns1.aedns.ae
-ns2.aedns.ae
-ns4.apnic.net
-nsext-pch.aedns.ae
-c.hkirc.net.hk
-d.hkirc.net.hk
-m.hkirc.net.hk
-t.hkirc.net.hk
-u.hkirc.net.hk
-v.hkirc.net.hk
-x.hkirc.net.hk
-y.hkirc.net.hk
-z.hkirc.net.hk
+0.0.0.0 a.dns.cn
+0.0.0.0 b.dns.cn
+0.0.0.0 c.dns.cn
+0.0.0.0 d.dns.cn
+0.0.0.0 e.dns.cn
+0.0.0.0 ns.cernet.net
+0.0.0.0 a.dns.ripn.net
+0.0.0.0 b.dns.ripn.net
+0.0.0.0 c.tld-servers.ru
+0.0.0.0 d.dns.ripn.net
+0.0.0.0 e.dns.ripn.net
+0.0.0.0 f.dns.ripn.net
+0.0.0.0 ns1.registry.in
+0.0.0.0 ns2.registry.in
+0.0.0.0 ns3.registry.in
+0.0.0.0 ns4.registry.in
+0.0.0.0 a.dns.br
+0.0.0.0 b.dns.br
+0.0.0.0 c.dns.br
+0.0.0.0 d.dns.br
+0.0.0.0 e.dns.br
+0.0.0.0 f.dns.br
+0.0.0.0 a.registrydns.co
+0.0.0.0 b.registrydns.co
+0.0.0.0 c.registrydns.co
+0.0.0.0 d.registrydns.co
+0.0.0.0 a.ns.gov
+0.0.0.0 b.ns.gov
+0.0.0.0 c.ns.gov
+0.0.0.0 d.ns.gov
+0.0.0.0 a.edu-servers.net
+0.0.0.0 b.edu-servers.net
+0.0.0.0 c.edu-servers.net
+0.0.0.0 d.edu-servers.net
+0.0.0.0 e.edu-servers.net
+0.0.0.0 f.edu-servers.net
+0.0.0.0 g.edu-servers.net
+0.0.0.0 h.edu-servers.net
+0.0.0.0 i.edu-servers.net
+0.0.0.0 j.edu-servers.net
+0.0.0.0 k.edu-servers.net
+0.0.0.0 l.edu-servers.net
+0.0.0.0 m.edu-servers.net
+0.0.0.0 anyc2.irondns.net
+0.0.0.0 etld-1.anycast.net
+0.0.0.0 na-e.ns.nic.cz
+0.0.0.0 na-ns.anycast.pch.net
+0.0.0.0 na.anycastdns.cz
+0.0.0.0 a0.nic.me
+0.0.0.0 a2.nic.me
+0.0.0.0 b0.nic.me
+0.0.0.0 b2.nic.me
+0.0.0.0 c0.nic.me
+0.0.0.0 a.lactld.org
+0.0.0.0 ms-ns.anycast.pch.net
+0.0.0.0 ns1.anycastdns.cz
+0.0.0.0 ns2.anycastdns.cz
+0.0.0.0 a.dns.it
+0.0.0.0 dns.nic.it
+0.0.0.0 m.dns.it
+0.0.0.0 nameserver.cnr.it
+0.0.0.0 r.dns.it
+0.0.0.0 v.dns.it
+0.0.0.0 a-dns.pl
+0.0.0.0 b-dns.pl
+0.0.0.0 d-dns.pl
+0.0.0.0 f-dns.pl
+0.0.0.0 h-dns.pl
+0.0.0.0 j-dns.pl
+0.0.0.0 ac1.nstld.com
+0.0.0.0 ac2.nstld.com
+0.0.0.0 ac3.nstld.com
+0.0.0.0 ac4.nstld.com
+0.0.0.0 a.au
+0.0.0.0 q.au
+0.0.0.0 r.au
+0.0.0.0 s.au
+0.0.0.0 t.au
+0.0.0.0 d.nic.fr
+0.0.0.0 f.ext.nic.fr
+0.0.0.0 g.ext.nic.fr
+0.0.0.0 c.mx-ns.mx
+0.0.0.0 e.mx-ns.mx
+0.0.0.0 i.mx-ns.mx
+0.0.0.0 m.mx-ns.mx
+0.0.0.0 o.mx-ns.mx
+0.0.0.0 x.mx-ns.mx
+0.0.0.0 a.dns.jp
+0.0.0.0 b.dns.jp
+0.0.0.0 c.dns.jp
+0.0.0.0 d.dns.jp
+0.0.0.0 e.dns.jp
+0.0.0.0 f.dns.jp
+0.0.0.0 g.dns.jp
+0.0.0.0 h.dns.jp
+0.0.0.0 b.dns.kr
+0.0.0.0 c.dns.kr
+0.0.0.0 d.dns.kr
+0.0.0.0 e.dns.kr
+0.0.0.0 f.dns.kr
+0.0.0.0 g.dns.kr
+0.0.0.0 a0.asia.afilias-nst.info
+0.0.0.0 a2.asia.afilias-nst.info
+0.0.0.0 b0.asia.afilias-nst.asia
+0.0.0.0 b2.asia.afilias-nst.org
+0.0.0.0 c0.asia.afilias-nst.info
+0.0.0.0 d0.asia.afilias-nst.asia
+0.0.0.0 fork.sth.dnsnode.net
+0.0.0.0 ns-cdn.amnic.net
+0.0.0.0 ns-pch.amnic.net
+0.0.0.0 ns-pri.nic.am
+0.0.0.0 a.cctld-servers.net.jo
+0.0.0.0 b.cctld-servers.net.jo
+0.0.0.0 c.cctld-servers.net.jo
+0.0.0.0 d.cctld-servers.net.jo
+0.0.0.0 jo.cctld.authdns.ripe.net
+0.0.0.0 rip.psg.com
+0.0.0.0 ns2.nic.net.ng
+0.0.0.0 ns3.nic.net.ng
+0.0.0.0 ns4.nic.net.ng
+0.0.0.0 ns5.nic.net.ng
+0.0.0.0 nsa.nic.net.ng
+0.0.0.0 ns43.ns.tr
+0.0.0.0 ns44.ns.tr
+0.0.0.0 ns61.ns.tr
+0.0.0.0 ns71.ns.tr
+0.0.0.0 ns72.ns.tr
+0.0.0.0 ns73.ns.tr
+0.0.0.0 ns74.ns.tr
+0.0.0.0 ns75.ns.tr
+0.0.0.0 anycast.ns.nic.bo
+0.0.0.0 ns.dns.br
+0.0.0.0 ns.nic.bo
+0.0.0.0 ns2.nic.fr
+0.0.0.0 dns-at.rotld.ro
+0.0.0.0 dns-c.rotld.ro
+0.0.0.0 dns-ro.denic.de
+0.0.0.0 primary.rotld.ro
+0.0.0.0 sec-dns-a.rotld.ro
+0.0.0.0 sec-dns-b.rotld.ro
+0.0.0.0 a.lactld.org
+0.0.0.0 a.nic.uy
+0.0.0.0 b.nic.uy
+0.0.0.0 d.nic.uy
+0.0.0.0 ns.dns.br
+0.0.0.0 ns1.anteldata.com.uy
+0.0.0.0 ns2.anteldata.com.uy
+0.0.0.0 ns01.trs-dns.com
+0.0.0.0 ns01.trs-dns.net
+0.0.0.0 ns10.trs-dns.info
+0.0.0.0 ns10.trs-dns.org
+0.0.0.0 a.nic.ir
+0.0.0.0 b.nic.ir
+0.0.0.0 c.nic.ir
+0.0.0.0 d.nic.ir
+0.0.0.0 ns1.liquidtelecom.net
+0.0.0.0 ns1zim.telone.co.zw
+0.0.0.0 ns2.liquidtelecom.net
+0.0.0.0 ns2zim.telone.co.zw
+0.0.0.0 zw-ns.anycast.pch.net
+0.0.0.0 a.lactld.org
+0.0.0.0 gy-ns.anycast.pch.net
+0.0.0.0 ns1.nic.ge
+0.0.0.0 ns2.nic.ge
+0.0.0.0 ns3.nic.ge
+0.0.0.0 ns4.nic.ge
+0.0.0.0 jm.cctld.authdns.ripe.net
+0.0.0.0 ns.jm
+0.0.0.0 ns3-jm.fsl.org.jm
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 d.nic.fr
+0.0.0.0 f.ext.nic.fr
+0.0.0.0 g.ext.nic.fr
+0.0.0.0 a.ns.tk
+0.0.0.0 b.ns.tk
+0.0.0.0 c.ns.tk
+0.0.0.0 d.ns.tk
+0.0.0.0 a.ns.cf
+0.0.0.0 b.ns.cf
+0.0.0.0 c.ns.cf
+0.0.0.0 d.ns.cf
+0.0.0.0 a.ns.gq
+0.0.0.0 b.ns.gq
+0.0.0.0 c.ns.gq
+0.0.0.0 d.ns.gq
+0.0.0.0 a.nic.ml
+0.0.0.0 b.nic.ml
+0.0.0.0 c.nic.ml
+0.0.0.0 d.nic.ml
+0.0.0.0 ns1.kptc.kp
+0.0.0.0 ns2.kptc.kp
+0.0.0.0 gransy-anycast1.nic.cd
+0.0.0.0 gransy-anycast2.nic.cd
+0.0.0.0 pch.nic.cd
+0.0.0.0 a.ns.tk
+0.0.0.0 b.ns.tk
+0.0.0.0 c.ns.tk
+0.0.0.0 d.ns.tk
+0.0.0.0 a.fi
+0.0.0.0 b.fi
+0.0.0.0 c.fi
+0.0.0.0 d.fi
+0.0.0.0 e.fi
+0.0.0.0 f.fi
+0.0.0.0 g.fi
+0.0.0.0 i.fi
+0.0.0.0 j.fi
+0.0.0.0 k.fi
+0.0.0.0 ns1.dns.nl
+0.0.0.0 ns3.dns.nl
+0.0.0.0 ns4.dns.nl
+0.0.0.0 b.dns.kr
+0.0.0.0 c.dns.kr
+0.0.0.0 d.dns.kr
+0.0.0.0 e.dns.kr
+0.0.0.0 f.dns.kr
+0.0.0.0 g.dns.kr
+0.0.0.0 a.tld.lt
+0.0.0.0 b.tld.lt
+0.0.0.0 d.tld.lt
+0.0.0.0 e.tld.lt
+0.0.0.0 f.tld.lt
+0.0.0.0 r.tld.lt
+0.0.0.0 anycast10.irondns.net
+0.0.0.0 anycast23.irondns.net
+0.0.0.0 anycast24.irondns.net
+0.0.0.0 anycast9.irondns.net
+0.0.0.0 ns1.registry.in
+0.0.0.0 ns2.registry.in
+0.0.0.0 ns3.registry.in
+0.0.0.0 ns4.registry.in
+0.0.0.0 ns.dns.br
+0.0.0.0 ns1.nic.gh
+0.0.0.0 ns2.nic.gh
+0.0.0.0 a.ns.nu
+0.0.0.0 c.ns.nu
+0.0.0.0 d.ns.nu
+0.0.0.0 m.ns.nu
+0.0.0.0 y.ns.nu
+0.0.0.0 z.ns.nu
+0.0.0.0 anyns.uem.mz
+0.0.0.0 dzowo.uem.mz
+0.0.0.0 ns-mz.afrinic.net
+0.0.0.0 oceano.uem.mz
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 zebra.uem.mz
+0.0.0.0 b.ns.lb
+0.0.0.0 i.ns.lb
+0.0.0.0 m.ns.lb
+0.0.0.0 n.ns.lb
+0.0.0.0 nabil.ns.lb
+0.0.0.0 r.ns.lb
+0.0.0.0 s.ns.lb
+0.0.0.0 t.ns.lb
+0.0.0.0 w.ns.lb
+0.0.0.0 a.lactld.org
+0.0.0.0 ns3.nic.ve
+0.0.0.0 ns4.nic.ve
+0.0.0.0 ns5.nic.ve
+0.0.0.0 ns6.nic.ve
+0.0.0.0 ssdns-tld.nic.cl
+0.0.0.0 estia.ics.forth.gr
+0.0.0.0 gr-a.ics.forth.gr
+0.0.0.0 gr-at.ics.forth.gr
+0.0.0.0 gr-d.ics.forth.gr
+0.0.0.0 gr-m.ics.forth.gr
+0.0.0.0 grdns.ics.forth.gr
+0.0.0.0 bd-ns.anycast.pch.net
+0.0.0.0 dns.bd
+0.0.0.0 jamuna.btcl.net.bd
+0.0.0.0 surma.btcl.net.bd
+0.0.0.0 ns01.trs-dns.com
+0.0.0.0 ns01.trs-dns.net
+0.0.0.0 ns10.trs-dns.info
+0.0.0.0 ns10.trs-dns.org
+0.0.0.0 a.lactld.org
+0.0.0.0 ix.red.sv
+0.0.0.0 ns.dns.br
+0.0.0.0 nsca.nic.cr
+0.0.0.0 p.ns.sv
+0.0.0.0 sir.red.sv
+0.0.0.0 a.nic.bg
+0.0.0.0 b.nic.bg
+0.0.0.0 c.nic.bg
+0.0.0.0 d.nic.bg
+0.0.0.0 e.nic.bg
+0.0.0.0 p.nic.bg
+0.0.0.0 a.hu
+0.0.0.0 b.hu
+0.0.0.0 c.hu
+0.0.0.0 d.hu
+0.0.0.0 e.hu
+0.0.0.0 f.hu
+0.0.0.0 p.hu
+0.0.0.0 root-c1.pknic.pk
+0.0.0.0 root-c2.pknic.pk
+0.0.0.0 root-e.pknic.pk
+0.0.0.0 root-s.pknic.pk
+0.0.0.0 e.tld.sk
+0.0.0.0 f.tld.sk
+0.0.0.0 g.tld.sk
+0.0.0.0 h.tld.sk
+0.0.0.0 a.dns.it
+0.0.0.0 dns.nic.it
+0.0.0.0 m.dns.it
+0.0.0.0 nameserver.cnr.it
+0.0.0.0 r.dns.it
+0.0.0.0 v.dns.it
+0.0.0.0 a.ns.nic.cz
+0.0.0.0 b.ns.nic.cz
+0.0.0.0 c.ns.nic.cz
+0.0.0.0 d.ns.nic.cz
+0.0.0.0 ns1.nic.ge
+0.0.0.0 ns2.nic.ge
+0.0.0.0 ns3.nic.ge
+0.0.0.0 ns4.nic.ge
+0.0.0.0 a.lactld.org
+0.0.0.0 ns.nic.do
+0.0.0.0 ns1.nic.do
+0.0.0.0 ns2.nic.do
+0.0.0.0 ns4.nic.do
+0.0.0.0 ns5.nic.do
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 a.mynic.centralnic-dns.com
+0.0.0.0 b.mynic.centralnic-dns.com
+0.0.0.0 c.mynic.centralnic-dns.com
+0.0.0.0 d.mynic.centralnic-dns.com
+0.0.0.0 e.nic.my
+0.0.0.0 g.nic.my
+0.0.0.0 ns01.trs-dns.com
+0.0.0.0 ns01.trs-dns.net
+0.0.0.0 bg.ns.ua
+0.0.0.0 cz.ns.ua
+0.0.0.0 ho1.ns.ua
+0.0.0.0 in1.ns.ua
+0.0.0.0 nn.ns.ua
+0.0.0.0 pch.ns.ua
+0.0.0.0 rcz.ns.ua
+0.0.0.0 fork.sth.dnsnode.net
+0.0.0.0 ns.anycast.co.tz
+0.0.0.0 ns2.tznic.or.tz
+0.0.0.0 rip.psg.com
+0.0.0.0 tz-e.ns.nic.cz
+0.0.0.0 dns1.tld.becloudby.com
+0.0.0.0 dns2.tld.becloudby.tech
+0.0.0.0 dns3.tld.becloudby.tech
+0.0.0.0 dns4.tld.becloudby.tech
+0.0.0.0 dns7.tld.becloudby.com
+0.0.0.0 a-dns.pl
+0.0.0.0 b-dns.pl
+0.0.0.0 d-dns.pl
+0.0.0.0 f-dns.pl
+0.0.0.0 h-dns.pl
+0.0.0.0 j-dns.pl
+0.0.0.0 hr-ns-1.carnet.hr
+0.0.0.0 n.dns.hr
+0.0.0.0 pch.carnet.hr
+0.0.0.0 a.nic.rs
+0.0.0.0 b.nic.rs
+0.0.0.0 c.nic.rs
+0.0.0.0 f.nic.rs
+0.0.0.0 h.nic.rs
+0.0.0.0 l.nic.rs
+0.0.0.0 anycast.ns.nic.bo
+0.0.0.0 ns.dns.br
+0.0.0.0 ns.nic.bo
+0.0.0.0 ns2.nic.fr
+0.0.0.0 a.ns.ao
+0.0.0.0 ao-e.ns.nic.cz
+0.0.0.0 ao02.dns.pt
+0.0.0.0 etld-1.anycast.net
+0.0.0.0 a.lactld.org
+0.0.0.0 ns.nic.do
+0.0.0.0 ns1.nic.do
+0.0.0.0 ns2.nic.do
+0.0.0.0 ns4.nic.do
+0.0.0.0 ns5.nic.do
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 b.tld.ee
+0.0.0.0 e.tld.ee
+0.0.0.0 ee.cert.ee
+0.0.0.0 ee.eenet.ee
+0.0.0.0 ns.tld.ee
+0.0.0.0 b.dns.id
+0.0.0.0 c.dns.id
+0.0.0.0 d.dns.id
+0.0.0.0 e.dns.id
+0.0.0.0 f.dns.id
+0.0.0.0 ns4.apnic.net
+0.0.0.0 ns.nic.kz
+0.0.0.0 ns1.nic.kz
+0.0.0.0 ns2.nic.kz
+0.0.0.0 anyns.uem.mz
+0.0.0.0 dzowo.uem.mz
+0.0.0.0 ns-mz.afrinic.net
+0.0.0.0 oceano.uem.mz
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 zebra.uem.mz
+0.0.0.0 dns-at.rotld.ro
+0.0.0.0 dns-c.rotld.ro
+0.0.0.0 dns-ro.denic.de
+0.0.0.0 primary.rotld.ro
+0.0.0.0 sec-dns-a.rotld.ro
+0.0.0.0 sec-dns-b.rotld.ro
+0.0.0.0 b.dns.si
+0.0.0.0 f.dns.si
+0.0.0.0 h.dns.si
+0.0.0.0 i.dns.si
+0.0.0.0 k.dns.si
+0.0.0.0 l.dns.si
+0.0.0.0 munnari.oz.au
+0.0.0.0 ns1.nic.al
+0.0.0.0 ns2.nic.al
+0.0.0.0 nsx.nic.al
+0.0.0.0 rip.psg.com
+0.0.0.0 jm.cctld.authdns.ripe.net
+0.0.0.0 ns.jm
+0.0.0.0 ns3-jm.fsl.org.jm
+0.0.0.0 phloem.uoregon.edu
+0.0.0.0 ns2.nic.net.ng
+0.0.0.0 ns3.nic.net.ng
+0.0.0.0 ns4.nic.net.ng
+0.0.0.0 ns5.nic.net.ng
+0.0.0.0 nsa.nic.net.ng
+0.0.0.0 kenic.anycastdns.cz
+0.0.0.0 mzizi.kenic.or.ke
+0.0.0.0 ns-ke.afrinic.net
+0.0.0.0 ns.anycast.kenic.or.ke
+0.0.0.0 a.tld.ma
+0.0.0.0 b.tld.ma
+0.0.0.0 c.tld.ma
+0.0.0.0 d.tld.ma
+0.0.0.0 dns.inria.fr
+0.0.0.0 e.tld.ma
+0.0.0.0 f.tld.ma
+0.0.0.0 ns-ma.nic.fr
+0.0.0.0 a.nic.fm
+0.0.0.0 b.nic.fm
+0.0.0.0 c.nic.fm
+0.0.0.0 d.nic.fm
+0.0.0.0 e.nic.fm
+0.0.0.0 f.nic.fm
+0.0.0.0 a.nic.lv
+0.0.0.0 b.nic.lv
+0.0.0.0 c.nic.lv
+0.0.0.0 d.nic.lv
+0.0.0.0 n.nic.lv
+0.0.0.0 nu.nic.lv
+0.0.0.0 sunic.sunet.se
+0.0.0.0 d.nic.fr
+0.0.0.0 f.ext.nic.fr
+0.0.0.0 g.ext.nic.fr
+0.0.0.0 a.registry.qa
+0.0.0.0 b.registry.qa
+0.0.0.0 c.registry.qa
+0.0.0.0 d.registry.qa
+0.0.0.0 e.registry.qa
+0.0.0.0 f.registry.qa
+0.0.0.0 g.registry.qa
+0.0.0.0 h.registry.qa
+0.0.0.0 i.registry.qa
+0.0.0.0 a.ns.ie
+0.0.0.0 c.ns.ie
+0.0.0.0 d.ns.ie
+0.0.0.0 e.ns.ie
+0.0.0.0 h.ns.ie
+0.0.0.0 i.ns.ie
+0.0.0.0 b.nic.dk
+0.0.0.0 c.nic.dk
+0.0.0.0 h.nic.dk
+0.0.0.0 l.nic.dk
+0.0.0.0 s.nic.dk
+0.0.0.0 t.nic.dk
+0.0.0.0 a.ns.se
+0.0.0.0 b.ns.se
+0.0.0.0 c.ns.se
+0.0.0.0 f.ns.se
+0.0.0.0 g.ns.se
+0.0.0.0 i.ns.se
+0.0.0.0 m.ns.se
+0.0.0.0 x.ns.se
+0.0.0.0 y.ns.se
+0.0.0.0 z.ns.se
+0.0.0.0 ns1.nic.la
+0.0.0.0 ns2.nic.la
+0.0.0.0 ns3.nic.la
+0.0.0.0 ns4.nic.la
+0.0.0.0 d.nic.lk
+0.0.0.0 h.nic.lk
+0.0.0.0 m.nic.lk
+0.0.0.0 ns1.ac.lk
+0.0.0.0 p.nic.lk
+0.0.0.0 pendragon.cs.purdue.edu
+0.0.0.0 t.nic.lk
+0.0.0.0 z.nic.lk
+0.0.0.0 1.ns.ph
+0.0.0.0 ns2.cuhk.edu.hk
+0.0.0.0 ns4.apnic.net
+0.0.0.0 ph.communitydns.net
+0.0.0.0 ns1.aedns.ae
+0.0.0.0 ns2.aedns.ae
+0.0.0.0 ns4.apnic.net
+0.0.0.0 nsext-pch.aedns.ae
+0.0.0.0 c.hkirc.net.hk
+0.0.0.0 d.hkirc.net.hk
+0.0.0.0 m.hkirc.net.hk
+0.0.0.0 t.hkirc.net.hk
+0.0.0.0 u.hkirc.net.hk
+0.0.0.0 v.hkirc.net.hk
+0.0.0.0 x.hkirc.net.hk
+0.0.0.0 y.hkirc.net.hk
+0.0.0.0 z.hkirc.net.hk
