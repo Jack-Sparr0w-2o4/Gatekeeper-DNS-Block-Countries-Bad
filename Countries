@@ -583,3 +583,10 @@
 0.0.0.0 d.nic.fr
 0.0.0.0 f.ext.nic.fr
 0.0.0.0 g.ext.nic.fr
+0.0.0.0 mr
+0.0.0.0 ns-mr.afrinic.net
+0.0.0.0 ns-mr.nic.fr
+0.0.0.0 ns1.nic.mr
+0.0.0.0 ns2.nic.mr
+0.0.0.0 ns3.nic.mr
+0.0.0.0 rest
