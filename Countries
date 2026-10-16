@@ -668,10 +668,15 @@
 0.0.0.0 ns1.neoip.com
 0.0.0.0 ns2.neoip.com
 0.0.0.0 sl
-c.ci-servers.org
-dns1.nominetdns.uk
-dns2.nominetdns.uk
-dns3.nominetdns.uk
-dns4.nominetdns.uk
-e.ci-servers.net
-je
+0.0.0.0 c.ci-servers.org
+0.0.0.0 dns1.nominetdns.uk
+0.0.0.0 dns2.nominetdns.uk
+0.0.0.0 dns3.nominetdns.uk
+0.0.0.0 dns4.nominetdns.uk
+0.0.0.0 e.ci-servers.net
+0.0.0.0 je
+0.0.0.0 a.ns.tk
+0.0.0.0 b.ns.tk
+0.0.0.0 c.ns.tk
+0.0.0.0 d.ns.tk
+0.0.0.0 tk
