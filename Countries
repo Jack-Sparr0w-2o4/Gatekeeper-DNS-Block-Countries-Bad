@@ -720,3 +720,13 @@
 0.0.0.0 za-ns.anycast.pch.net
 0.0.0.0 za1.dnsnode.net
 0.0.0.0 za
+0.0.0.0 a.dns.pt
+0.0.0.0 b.dns.pt
+0.0.0.0 c.dns.pt
+0.0.0.0 d.dns.pt
+0.0.0.0 e.dns.pt
+0.0.0.0 g.dns.pt
+0.0.0.0 h.dns.pt
+0.0.0.0 ns.dns.br
+0.0.0.0 ns2.nic.fr
+0.0.0.0 pt
