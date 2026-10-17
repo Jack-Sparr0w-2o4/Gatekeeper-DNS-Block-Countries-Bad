@@ -462,10 +462,10 @@
 0.0.0.0 hk
 0.0.0.0 sg
 0.0.0.0 pw
-ns01.trs-dns.com
-ns01.trs-dns.net
-ns10.trs-dns.info
-ns10.trs-dns.org
+0.0.0.0 ns01.trs-dns.com
+0.0.0.0 ns01.trs-dns.net
+0.0.0.0 ns10.trs-dns.info
+0.0.0.0 ns10.trs-dns.org
 0.0.0.0 a.dns.cn
 0.0.0.0 b.dns.cn
 0.0.0.0 c.dns.cn
