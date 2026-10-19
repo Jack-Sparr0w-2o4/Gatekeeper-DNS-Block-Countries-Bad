@@ -760,3 +760,10 @@
 0.0.0.0 ns1.anteldata.com.uy
 0.0.0.0 ns2.anteldata.com.uy
 0.0.0.0 uy
+0.0.0.0 a.cctld-servers.net.jo
+0.0.0.0 b.cctld-servers.net.jo
+0.0.0.0 c.cctld-servers.net.jo
+0.0.0.0 d.cctld-servers.net.jo
+0.0.0.0 jo.cctld.authdns.ripe.net
+0.0.0.0 rip.psg.com
+0.0.0.0 jo
