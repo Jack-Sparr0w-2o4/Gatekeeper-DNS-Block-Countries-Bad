@@ -794,3 +794,9 @@
 0.0.0.0 ns1.rg.net
 0.0.0.0 rip.psg.com
 0.0.0.0 lr
+0.0.0.0 b.dns.py
+0.0.0.0 c.dns.py
+0.0.0.0 l.dns.py
+0.0.0.0 p.dns.py
+0.0.0.0 u.dns.py
+0.0.0.0 py
