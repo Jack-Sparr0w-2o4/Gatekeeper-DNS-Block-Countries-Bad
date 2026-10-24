@@ -800,3 +800,15 @@
 0.0.0.0 p.dns.py
 0.0.0.0 u.dns.py
 0.0.0.0 py
+0.0.0.0 ns-tn.afrinic.net
+0.0.0.0 ns1.ati.tn
+0.0.0.0 ns2.ati.tn
+0.0.0.0 ns2.nic.fr
+0.0.0.0 pch.ati.tn
+0.0.0.0 rip.psg.com
+0.0.0.0 tn
+0.0.0.0 fork.sth.dnsnode.net
+0.0.0.0 ns-lr.afrinic.net
+0.0.0.0 ns1.rg.net
+0.0.0.0 rip.psg.com
+0.0.0.0 lr
