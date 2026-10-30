@@ -830,3 +830,10 @@
 0.0.0.0 c.nic.net.mm
 0.0.0.0 d.nic.net.mm
 0.0.0.0 mm
+0.0.0.0 a.dns.ws
+0.0.0.0 ns2.dns.ws
+0.0.0.0 ns5.dns.ws
+0.0.0.0 s.dns.ws
+0.0.0.0 us3.dns.ws
+0.0.0.0 us4.dns.ws
+0.0.0.0 ws
